@@ -4,3 +4,5 @@
 4. "Happiness depends upon ourselves." — Aristotle (아리스토텔레스)
 5. "Happiness is when what you think, what you say, and what you do are in harmony." — Mahatma Gandhi (마하트마 간디)
 6. "Most folks are about as happy as they make their minds up to be." — Abraham Lincoln (에이브러햄 링컨)
+7. "Success is not the key to happiness. Happiness is the key to success." — Albert Schweitzer (알베르트 슈바이처)
+8. "Happiness is not a goal; it is a by-product." — Eleanor Roosevelt (엘리너 루즈벨트)
